@@ -90,7 +90,7 @@ VITE_BACKEND_URL=http://localhost:5000
   👨‍🎨 Designed & Built By <strong>Rushikesh Jadhav</strong><br />
   🔗 <a href="http://www.linkedin.com/in/rushikeshjadhav2004">LinkedIn</a><br />
   📸 <a href="https://www.instagram.com/thvrishiii7?igsh=MTVkczFzY20wY2xyZA==">Instagram</a><br />
-  📧 <a href="mailto:rushikeshjadhav@gmail.com">rushikeshjadhav@gmail.com</a>
+  📧 <a href="mailto:rushikeshjadhav@gmail.com">rushikeshjadhav3596@gmail.com</a>
 </p>
 
 
