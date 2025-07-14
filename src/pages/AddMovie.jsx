@@ -20,7 +20,7 @@ const AddMovie = () => {
     e.preventDefault();
     const token = localStorage.getItem('token');
     try {
-      await axios.post('http://localhost:5000/api/movies/add', movie, {
+      await axios.post(`${import.meta.env.VITE_BACKEND_URL}/api/auth/login`, movie, {
         headers: {
           Authorization: `Bearer ${token}`,
         },

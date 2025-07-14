@@ -9,8 +9,7 @@ const Home = () => {
   const [genreFilter, setGenreFilter] = useState("");
 
   useEffect(() => {
-    axios
-      .get("http://localhost:5000/api/movies")
+   axios.post(`${import.meta.env.VITE_BACKEND_URL}/api/movies`)
       .then((res) => {
         setMovies(res.data);
         setFiltered(res.data);
