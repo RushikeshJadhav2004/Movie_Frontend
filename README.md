@@ -1,9 +1,10 @@
-#  Inox-Playxx
 
-** Inox-Playxx** is a full-stack movie web app where users can explore, search, and view movie details, while admin users can log in and manage movie entries.
+# 🎬 Inox-Playxx
 
-![Banner](<img width="1294" height="683" alt="Screenshot 2025-07-14 151527" src="https://github.com/user-attachments/assets/ab202805-ad00-456b-a720-75a5d252d94e" />
-)
+**Inox-Playxx** is a full-stack movie web app where users can explore, search, and view movie details, while admin users can log in and manage movie entries.
+
+![Banner](https://github.com/user-attachments/assets/ab202805-ad00-456b-a720-75a5d252d94e)
+
 
 ---
 
@@ -85,11 +86,13 @@ npm run dev
 VITE_BACKEND_URL=http://localhost:5000
 ```
 
-###👨‍🎨 Designed & Built By
-Rushikesh Jadhav
-🔗 LinkedIn
-📸 Instagram
-📧 rushikeshjadhav@gmail.com
+<p className="footer-designer">
+  👨‍🎨 Designed & Built By <strong>Rushikesh Jadhav</strong><br />
+  🔗 <a href="https://www.linkedin.com/in/rushikesh-jadhav" target="_blank" rel="noopener noreferrer">LinkedIn</a><br />
+  📸 <a href="https://www.instagram.com/rushi.codes" target="_blank" rel="noopener noreferrer">Instagram</a><br />
+  📧 <a href="mailto:rushikeshjadhav@gmail.com">rushikeshjadhav@gmail.com</a>
+</p>
+
 
 ###📄 License
 This project is licensed under the MIT License.
