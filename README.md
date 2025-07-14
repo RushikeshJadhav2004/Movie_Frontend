@@ -1,12 +1,105 @@
-# React + Vite
+#  Inox-Playxx
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+** Inox-Playxx** is a full-stack movie web app where users can explore, search, and view movie details, while admin users can log in and manage movie entries.
 
-Currently, two official plugins are available:
+![ Inox-Playxx Banner](<img width="1294" height="683" alt="Screenshot 2025-07-14 151527" src="https://github.com/user-attachments/assets/ab202805-ad00-456b-a720-75a5d252d94e" />
+)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌐 Frontend: [ Inox-Playxx UI](https://your-frontend-url.onrender.com)  
+🔗 Backend: [ Inox-Playxx API](https://movie-backend-gpjg.onrender.com)
+
+---
+
+## 🧩 Tech Stack
+
+**Frontend:**  
+- React.js  
+- Vite  
+- Axios  
+- Tailwind CSS / Custom CSS  
+- Framer Motion (for animation)
+
+**Backend:**  
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
+- JWT Auth  
+- Bcrypt.js  
+
+---
+
+## 🧑‍💻 Features
+
+### 👥 Authentication
+- 🔐 Register/Login system with JWT
+- 👤 Role-based access (admin, user)
+
+### 🎞 Movie Features
+- 📥 Admin can add movies (title, description, genre, poster, trailer link)
+- 🔎 Search/filter movies
+- 📄 View full movie details
+- 📱 Responsive on all devices
+
+### 🧠 UI
+- 🎨 Netflix-style red & black theme
+- 💻 Modern navbar, animated cards, and clean layout
+- 📎 Scrollbar customization
+- 📩 Footer with contact info
+
+---
+
+
+---
+
+## ⚙️ How to Run Locally
+
+### 🛠 Backend
+
+```
+cd server
+npm install
+npm run dev
+```
+
+### .env in server/:
+```
+PORT=5000
+MONGO_URI=your_mongo_connection
+JWT_SECRET=your_secret_key
+```
+
+### Frontend
+```
+cd client
+npm install
+npm run dev
+```
+
+### Create .env in client/:
+```
+VITE_BACKEND_URL=http://localhost:5000
+```
+
+###👨‍🎨 Designed & Built By
+Rushikesh Jadhav
+🔗 LinkedIn
+📸 Instagram
+📧 rushikeshjadhav@gmail.com
+
+###📄 License
+This project is licensed under the MIT License.
+
+### Show Your Support
+If you like this project, please ⭐ the repo and follow for more updates!
+```
+
+---
+
+Would you like me to generate the same README as a downloadable `.md` file for GitHub directly?
+```
+
