@@ -2,14 +2,14 @@
 
 ** Inox-Playxx** is a full-stack movie web app where users can explore, search, and view movie details, while admin users can log in and manage movie entries.
 
-![ Inox-Playxx Banner](<img width="1294" height="683" alt="Screenshot 2025-07-14 151527" src="https://github.com/user-attachments/assets/ab202805-ad00-456b-a720-75a5d252d94e" />
+![Banner](<img width="1294" height="683" alt="Screenshot 2025-07-14 151527" src="https://github.com/user-attachments/assets/ab202805-ad00-456b-a720-75a5d252d94e" />
 )
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 Frontend: [ Inox-Playxx UI](https://your-frontend-url.onrender.com)  
+🌐 Frontend: [ Inox-Playxx UI](https://movie-frontend-v1y7.onrender.com)  
 🔗 Backend: [ Inox-Playxx API](https://movie-backend-gpjg.onrender.com)
 
 ---
@@ -96,10 +96,5 @@ This project is licensed under the MIT License.
 
 ### Show Your Support
 If you like this project, please ⭐ the repo and follow for more updates!
-```
 
----
-
-Would you like me to generate the same README as a downloadable `.md` file for GitHub directly?
-```
 
