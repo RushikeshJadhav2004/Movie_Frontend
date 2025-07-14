@@ -88,8 +88,8 @@ VITE_BACKEND_URL=http://localhost:5000
 
 <p className="footer-designer">
   👨‍🎨 Designed & Built By <strong>Rushikesh Jadhav</strong><br />
-  🔗 <a href="https://www.linkedin.com/in/rushikesh-jadhav" target="_blank" rel="noopener noreferrer">LinkedIn</a><br />
-  📸 <a href="https://www.instagram.com/rushi.codes" target="_blank" rel="noopener noreferrer">Instagram</a><br />
+  🔗 <a href="[https://www.linkedin.com/in/rushikesh-jadhav" target="_blank" rel="noopener noreferrer](http://www.linkedin.com/in/rushikeshjadhav2004)">LinkedIn</a><br />
+  📸 <a href="[https://www.instagram.com/rushi.codes" target="_blank" rel="noopener noreferrer](https://www.instagram.com/thvrishiii7?igsh=MTVkczFzY20wY2xyZA==)">Instagram</a><br />
   📧 <a href="mailto:rushikeshjadhav@gmail.com">rushikeshjadhav@gmail.com</a>
 </p>
 
