@@ -1,0 +1,66 @@
+/* login.css */
+
+/* login.css */
+.login-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 85vh;
+  padding: 20px;
+ background: linear-gradient(to bottom, #0f0f0f, #1e1e1e); /* Light cream background */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+.login-page h2 {
+  color: #ffffff;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.login-page form {
+  background-color: #ffffff;
+  padding: 30px 40px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(15px);
+  border: 1px solid #e5091466;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.login-page input {
+  padding: 12px 15px;
+  border: 1px solid #c0a080;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border 0.3s;
+}
+
+.login-page input:focus {
+  border-color: #a97449;
+  outline: none;
+  box-shadow: 0 0 5px rgba(169, 116, 73, 0.3);
+}
+
+.login-page button {
+ background-color: #E50914;
+  color: #fff;
+  padding: 12px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.login-page button:hover {
+  background-color: #7b4e2c;
+}
+
+
